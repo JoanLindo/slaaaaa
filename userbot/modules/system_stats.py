@@ -230,16 +230,16 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
-        "`Tudo funcionando como deveria...`\n"
+        "`Vai tomar no teu cu`\n"
         "`⊷⊷⊷⊷⊷⊷⊷⊷⊷⊷⊶⊷⊶⊶⊶⊶⊶⊶⊶`\n"
         f"•  ⚙️ `Telethon   : v{version.__version__} `\n"
         f"•  🐍 `Python     : v{python_version()} `\n"
-        f"•  👤 `Usuário    :`  {DEFAULTUSER} \n"
+        f"•  👤 `lindo   :`  {DEFAULTUSER} \n"
         "`-----------------------------`\n"
         f"•  💻 `Rodando em : SQL+ `\n"
         f"•  🗃 `Módulos    : {len(modules)} `\n"
-        f"•  👾 `PurpleBot  : v{USERBOT_VERSION} `\n"
-        f"•  🕒 `Bot Uptime : {uptime} `\n"
+        f"•  👾 `BaiaBoter : v{USERBOT_VERSION} `\n"
+        f"•  🕒 `A mimi: {uptime} `\n"
         "`⊷⊷⊷⊷⊷⊷⊷⊷⊷⊷⊶⊷⊶⊶⊶⊶⊶⊶⊶`"
     )
     if ALIVE_LOGO:
