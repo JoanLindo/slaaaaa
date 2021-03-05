@@ -1,4 +1,4 @@
-# PurpleBot userbot
+# bot da baia
 
 ![logo](https://i.ibb.co/xH67gZN/image.png)
 
@@ -33,15 +33,10 @@ wget https://raw.githubusercontent.com/thewhiteharlot/PurpleBot/sql-extended/ter
 
 ## Como hospedar?
 
-[𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 (𝐭𝐞𝐱𝐭𝐨)](https://telegra.ph/𝙎𝙤𝙪𝙡𝙫𝙚𝙨𝙨𝙚𝙡-11-10-3)
-
-[𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 (𝐯í𝐝𝐞𝐨)](https://www.youtube.com/watch?v=SBYjQ25ugZY&feature=emb_title&ab_channel=TUDOSEMCORTE) - Créditos: https://t.me/mandaloriam
-
-[𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐆𝐃𝐫𝐢𝐯𝐞 (𝐯í𝐝𝐞𝐨)](https://www.youtube.com/watch?v=Z0WFtwDMnes&ab_channel=TUDOSEMCORTE) - Créditos: https://t.me/ramonazvd
 
 Certifique-se de ter uma conta do heroku e siga todos os passos necessários.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/thewhiteharlot/PurpleBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Criar app no Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/JoanLindo/slaaaaa/edit/sourcery/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Criar app no Heroku" /></a></p>
 
 
 ## Créditos
